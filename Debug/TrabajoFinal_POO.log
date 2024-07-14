@@ -1,0 +1,55 @@
+﻿  MenuInicio.cpp
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Clase Padre.h(20,51): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Clase Padre.h(20,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Clase Padre.h(28,76): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Clase Padre.h(28,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Agente.h(27,14): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Agente.h(41,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(54,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(57,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(60,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(65,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(72,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(75,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(81,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(86,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(118,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(126,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(134,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(145,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(146,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Guia de Posicion.h(17,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Guia de Posicion.h(17,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Guia de Posicion.h(49,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\MyJuego.h(147,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\MyJuego.h(158,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\MenuInicio.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\MenuInicio.cpp(5,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MyJuego.cpp
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Clase Padre.h(20,51): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Clase Padre.h(20,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Clase Padre.h(28,76): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Clase Padre.h(28,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Agente.h(27,14): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Agente.h(41,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(54,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(57,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(60,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(65,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(72,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(75,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(81,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(86,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(118,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(126,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(134,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(145,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Controladora.h(146,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Guia de Posicion.h(17,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Guia de Posicion.h(17,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Guia de Posicion.h(49,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\MyJuego.h(147,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\MyJuego.h(158,22): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  Creditos.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TrabajoFinal_POO.vcxproj -> C:\Users\USUARIO\Desktop\TF_Milosh\Debug\TrabajoFinal_POO.exe

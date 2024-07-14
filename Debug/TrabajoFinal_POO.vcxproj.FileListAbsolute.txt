@@ -1,0 +1,17 @@
+D:\Proyectos de Visual Studio\TrabajoFinal_POO\TrabajoFinal_POO\Debug\TrabajoFinal_POO.vcxprojAssemblyReference.cache
+D:\Proyectos de Visual Studio\TrabajoFinal_POO\TrabajoFinal_POO\Debug\TrabajoFinalPOO.MenuInicio.resources
+D:\Proyectos de Visual Studio\TrabajoFinal_POO\TrabajoFinal_POO\Debug\TrabajoFinal_POO.vcxproj.GenerateResource.cache
+D:\Proyectos de Visual Studio\TrabajoFinal_POO\TrabajoFinal_POO\Debug\TrabajoFinalPOO.MenuOpciones.resources
+D:\Proyectos de Visual Studio\TrabajoFinal_POO\TrabajoFinal_POO\Debug\TrabajoFinalPOO.MyJuego.resources
+D:\Proyectos de Visual Studio\TrabajoFinal_POO\TrabajoFinal_POO\Debug\TrabajoFinalPOO.formGameOver.resources
+D:\Proyectos de Visual Studio\TrabajoFinal_POO\TrabajoFinal_POO\Debug\TrabajoFinalPOO.formYouWin.resources
+D:\Proyectos de Visual Studio\TrabajoFinal_POO\TrabajoFinal_POO\Debug\TrabajoFinalPOO.Creditos.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Debug\TrabajoFinal_POO.vcxprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Debug\TrabajoFinalPOO.Creditos.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Debug\TrabajoFinalPOO.formGameOver.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Debug\TrabajoFinalPOO.formYouWin.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Debug\TrabajoFinalPOO.MenuInicio.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Debug\TrabajoFinalPOO.MenuOpciones.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Debug\TrabajoFinalPOO.MyJuego.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Debug\TrabajoFinal_POO.vcxproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\Debug\TrabajoFinalPOO.formInstrucciones.resources

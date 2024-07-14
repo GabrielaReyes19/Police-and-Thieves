@@ -1,0 +1,73 @@
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.Creditos.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formGameOver.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formInstrucciones.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formYouWin.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuInicio.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuOpciones.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MyJuego.resources
+C:\Users\USUARIO\Desktop\TF_Milosh\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.Creditos.resources
+C:\Users\USUARIO\Desktop\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formGameOver.resources
+C:\Users\USUARIO\Desktop\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formInstrucciones.resources
+C:\Users\USUARIO\Desktop\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formYouWin.resources
+C:\Users\USUARIO\Desktop\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuInicio.resources
+C:\Users\USUARIO\Desktop\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuOpciones.resources
+C:\Users\USUARIO\Desktop\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MyJuego.resources
+C:\Users\USUARIO\Desktop\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.GenerateResource.cache
+C:\Users\cesar\Documents\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxprojAssemblyReference.cache
+C:\Users\cesar\Documents\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.Creditos.resources
+C:\Users\cesar\Documents\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formGameOver.resources
+C:\Users\cesar\Documents\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formInstrucciones.resources
+C:\Users\cesar\Documents\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formYouWin.resources
+C:\Users\cesar\Documents\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuInicio.resources
+C:\Users\cesar\Documents\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuOpciones.resources
+C:\Users\cesar\Documents\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MyJuego.resources
+C:\Users\cesar\Documents\TF_\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.AssemblyReference.cache
+C:\Users\Cesar\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.Creditos.resources
+C:\Users\Cesar\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formGameOver.resources
+C:\Users\Cesar\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formInstrucciones.resources
+C:\Users\Cesar\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formYouWin.resources
+C:\Users\Cesar\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuInicio.resources
+C:\Users\Cesar\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuOpciones.resources
+C:\Users\Cesar\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MyJuego.resources
+C:\Users\Cesar\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.Creditos.resources
+C:\Users\USUARIO\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formGameOver.resources
+C:\Users\USUARIO\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formInstrucciones.resources
+C:\Users\USUARIO\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formYouWin.resources
+C:\Users\USUARIO\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuInicio.resources
+C:\Users\USUARIO\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuOpciones.resources
+C:\Users\USUARIO\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MyJuego.resources
+C:\Users\USUARIO\Desktop\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.GenerateResource.cache
+C:\Users\Gabriela\Downloads\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.AssemblyReference.cache
+C:\Users\Gabriela\Downloads\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.Creditos.resources
+C:\Users\Gabriela\Downloads\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formGameOver.resources
+C:\Users\Gabriela\Downloads\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formInstrucciones.resources
+C:\Users\Gabriela\Downloads\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formYouWin.resources
+C:\Users\Gabriela\Downloads\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuInicio.resources
+C:\Users\Gabriela\Downloads\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuOpciones.resources
+C:\Users\Gabriela\Downloads\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MyJuego.resources
+C:\Users\Gabriela\Downloads\Trabajo final\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.GenerateResource.cache
+C:\Users\Gabriela\Downloads\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.AssemblyReference.cache
+C:\Users\Gabriela\Downloads\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.Creditos.resources
+C:\Users\Gabriela\Downloads\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formGameOver.resources
+C:\Users\Gabriela\Downloads\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formInstrucciones.resources
+C:\Users\Gabriela\Downloads\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formYouWin.resources
+C:\Users\Gabriela\Downloads\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuInicio.resources
+C:\Users\Gabriela\Downloads\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuOpciones.resources
+C:\Users\Gabriela\Downloads\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MyJuego.resources
+C:\Users\Gabriela\Downloads\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.GenerateResource.cache
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.AssemblyReference.cache
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.Creditos.resources
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formGameOver.resources
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formInstrucciones.resources
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.formYouWin.resources
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuInicio.resources
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MenuOpciones.resources
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinalPOO.MyJuego.resources
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.GenerateResource.cache
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\x64\Debug\TrabajoFinal_POO.vcxproj.SuggestedBindingRedirects.cache

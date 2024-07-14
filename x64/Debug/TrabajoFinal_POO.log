@@ -1,0 +1,27 @@
+﻿  Creditos.cpp
+  MenuInicio.cpp
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Clase Padre.h(20,51): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Clase Padre.h(20,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Clase Padre.h(28,76): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Clase Padre.h(28,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Ratero.h(29,14): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Controladora.h(149,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Guia de Posicion.h(17,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Guia de Posicion.h(17,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\MenuInicio.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\MenuInicio.cpp(5,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MyJuego.cpp
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Clase Padre.h(20,51): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Clase Padre.h(20,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Clase Padre.h(28,76): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Clase Padre.h(28,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Ratero.h(29,14): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Controladora.h(149,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Guia de Posicion.h(17,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\TrabajoFinal_POO\Guia de Posicion.h(17,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  formGameOver.cpp
+  formInstrucciones.cpp
+  formYouWin.cpp
+  Generando código...
+  Creditos.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TrabajoFinal_POO.vcxproj -> D:\GABRIELA PC\TRABAJOS 2DO CICLO\TF_POLICE AND THIEVES\x64\Debug\TrabajoFinal_POO.exe
