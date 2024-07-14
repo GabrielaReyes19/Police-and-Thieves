@@ -1,0 +1,52 @@
+  TrabajoFinalPOO.Creditos.resources - Embedded, ContainedInManifestFile, 
+  TrabajoFinalPOO.formGameOver.resources - Embedded, ContainedInManifestFile, 
+  TrabajoFinalPOO.formInstrucciones.resources - Embedded, ContainedInManifestFile, 
+  TrabajoFinalPOO.formYouWin.resources - Embedded, ContainedInManifestFile, 
+  TrabajoFinalPOO.MenuInicio.resources - Embedded, ContainedInManifestFile, 
+  TrabajoFinalPOO.MenuOpciones.resources - Embedded, ContainedInManifestFile, 
+  TrabajoFinalPOO.MyJuego.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly TrabajoFinal_POO, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class TrabajoFinalPOO.Creditos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class TrabajoFinalPOO.formGameOver: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class TrabajoFinalPOO.formInstrucciones: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class TrabajoFinalPOO.formYouWin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class TrabajoFinalPOO.MenuOpciones: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    tiempo(): PrivateScope, Public, HideBySig
+    cant_trabajadores(): PrivateScope, Public, HideBySig
+    cant_rateros(): PrivateScope, Public, HideBySig
+    cant_ciudadanos(): PrivateScope, Public, HideBySig
+    nivel(): PrivateScope, Public, HideBySig
+Class TrabajoFinalPOO.MyJuego: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32, Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    showGameOver(): PrivateScope, Public, HideBySig
+    showYouWin(): PrivateScope, Public, HideBySig
+Class TrabajoFinalPOO.MenuInicio: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
